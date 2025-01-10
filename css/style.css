@@ -710,5 +710,10 @@ a:focus {
   color: #fbfcfd;
 }
 
+#p1 {
+  width: 50%
+  height: auto
+}
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
